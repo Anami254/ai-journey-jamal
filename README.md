@@ -17,3 +17,5 @@ To empower my work in tech, agriculture, education, and hospitality and future p
 3. Machine learning basics
 4. Deep learning and neural networks
 5. Deployment and real-world integration
+
+[View full roadmap](./roadmap.md)
